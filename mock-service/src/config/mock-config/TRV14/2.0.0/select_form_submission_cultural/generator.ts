@@ -22,7 +22,7 @@ export async function selectPurchaseCultureGenerator(existingPayload: any, sessi
     }
     existingPayload.message.order.xinput = {
       form: {
-        id: "first_form_testing",
+        id: "F01",
       },
       form_response: {
         status: "SUCCESS",

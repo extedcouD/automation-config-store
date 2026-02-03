@@ -203,7 +203,7 @@ export async function onSelectDefaultGenerator(existingPayload: any, sessionData
             ]
           },
           "form": {
-            "id": "first_form_testing",
+            "id": "F01",
             "mime_type": "text/html",
             "url": `${process.env.FORM_SERVICE}/forms/${sessionData.domain}/additional_details_form?session_id=${sessionData.session_id}&flow_id=${sessionData.flow_id}&transaction_id=${existingPayload.context.transaction_id}`,
             "resubmit": false,

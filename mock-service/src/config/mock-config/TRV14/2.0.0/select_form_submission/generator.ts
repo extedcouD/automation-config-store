@@ -23,7 +23,7 @@ export async function select2Generator(existingPayload: any, sessionData: any) {
           ...item,
           xinput: {
             form: {
-              id: "first_form_testing",
+              id: "F01",
             },
             form_response: {
               status: "SUCCESS",

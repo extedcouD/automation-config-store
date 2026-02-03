@@ -36,7 +36,7 @@ export async function onSelect2Generator(existingPayload: any, sessionData: any)
   if (submission_id) {
     existingPayload.message.order.xinput = {
       form: {
-        id: "first_form_testing"
+        id: "F01"
       },
       form_response: {
         status: "SUCCESS",

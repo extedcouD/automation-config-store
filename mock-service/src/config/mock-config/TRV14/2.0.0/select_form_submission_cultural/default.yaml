@@ -27,7 +27,7 @@ order:
         count: 1
   xinput:
     form:
-      id: first_form_testing
+      id: F01
     form_response:
       status: SUCCESS
       submission_id: F01_SUBMISSION_ID

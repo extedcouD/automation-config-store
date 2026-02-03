@@ -112,7 +112,7 @@ order:
               value: https://api.unreserved-entry-pass/beckn/tnc.html
       xinput:
         form:
-          id: first_form_testing
+          id: F01
         form_response:
           status: SUCCESS
           submission_id: F01_SUBMISSION_ID
